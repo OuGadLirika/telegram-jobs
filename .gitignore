@@ -1,0 +1,38 @@
+# Python caches and virtualenv
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+jobs.db
+jobs.db-wal
+jobs.db-shm
+
+# macOS
+.DS_Store
+
+# pytest
+.pytest_cache/
+
+# Logs
+*.log
+
+# Local data/state (vacancies and runtime files)
+delayed_posts.json
+delayed_posts.json.bak*
+posts_status.json
+jobs.json
+links.json
+last_sent_time.txt
+
+# Backups
+*.bak
+*.bak.*
+
+# Local scheduler/config artifacts
+com.jobs.auditposts.plist
+audit_posts.log
+audit_posts.err
