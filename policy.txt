@@ -1,0 +1,91 @@
+Effective date: [27 April 2026]
+Project: [telegram-jobs]
+Contact: 2824988@ucm.sk
+
+This Privacy Policy explains how [telegram-jobs] (“we”, “us”, or “our”) collects, uses, and protects information when you use our Telegram bot and related services (the “Service”).
+
+Who This Service Is For
+The Service is intended for Telegram channel owners, creators, and administrators who manage job channels and want to automate job collection, moderation, and publishing.
+
+Information We Collect
+We may collect and process the following data:
+
+Telegram account data: user ID, username, display name, and chat/channel identifiers.
+
+Content data: messages, commands, and job post data submitted to or processed by the bot.
+
+Operational data: timestamps, moderation actions, queue status, publishing history, and delivery results.
+
+Technical data: error logs, diagnostic logs, and basic usage metadata needed for reliability and security.
+
+We do not intentionally collect sensitive personal data unless you provide it in content submitted to the bot.
+
+How We Use Information
+We use collected information to:
+
+Operate core bot features (parsing, queueing, moderation, and publishing).
+
+Maintain security, prevent abuse, and troubleshoot technical issues.
+
+Improve performance, reliability, and user experience.
+
+Comply with legal obligations where applicable.
+
+Legal Basis (where applicable)
+If GDPR or similar laws apply, we process data based on:
+
+Performance of a service requested by the user.
+
+Legitimate interests (security, maintenance, and improvement).
+
+Legal obligations.
+
+Data Sharing
+We do not sell personal data.
+We may share limited data only when necessary with:
+
+Infrastructure/service providers (hosting, monitoring, storage) under confidentiality obligations.
+
+Legal authorities, if required by law or valid legal process.
+
+A successor entity in case of merger, acquisition, or asset transfer.
+
+Data Retention
+We keep data only as long as needed for operational purposes, moderation history, security, and legal compliance.
+When data is no longer needed, we delete or anonymize it within a reasonable period.
+
+Data Security
+We apply reasonable technical and organizational measures to protect information from unauthorized access, loss, misuse, or alteration.
+However, no online service can guarantee absolute security.
+
+International Transfers
+If data is processed outside your country, we take reasonable steps to ensure appropriate safeguards consistent with applicable privacy laws.
+
+Your Rights
+Depending on your location, you may have rights to:
+
+Access your data.
+
+Correct inaccurate data.
+
+Request deletion of your data.
+
+Object to or restrict certain processing.
+
+Request data portability.
+
+To exercise these rights, contact us at: 2824988@ucm.sk.
+
+Children’s Privacy
+The Service is not directed to children under 13 (or a higher age required by local law).
+If we learn we collected data from a child in violation of law, we will delete it promptly.
+
+Third-Party Platforms
+This Service runs on Telegram and may rely on third-party infrastructure. Their data practices are governed by their own privacy policies and terms.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time.
+We will publish the updated version with a new effective date.
+
+Contact
+If you have privacy questions or requests, contact: 2824988@ucm.sk
